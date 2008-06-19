@@ -5,7 +5,7 @@
 	<key>name</key>
 	<string>Style: Note</string>
 	<key>scope</key>
-	<string>meta.task.completed.tasks</string>
+	<string>meta.note.tasks</string>
 	<key>settings</key>
 	<dict>
 		<key>foreground</key>

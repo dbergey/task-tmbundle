@@ -5,7 +5,7 @@
 	<key>name</key>
 	<string>Style: Tag</string>
 	<key>scope</key>
-	<string>meta.task.completed.tasks</string>
+	<string>meta.tag.tasks</string>
 	<key>settings</key>
 	<dict>
 		<key>foreground</key>
